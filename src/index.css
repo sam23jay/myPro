@@ -1,0 +1,10 @@
+.ps {
+  background-image: url("./PS5.jpg");
+  background-size: cover;
+  color: white;
+}
+.xbo {
+  background-image: url("./XBOX.jpg");
+  background-size: cover;
+  color: white;
+}
